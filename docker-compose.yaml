@@ -34,4 +34,6 @@ services:
 networks:
   mern-networks:
     driver: bridge
+volumes:
+  mongodb:
   
